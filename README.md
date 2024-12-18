@@ -20,12 +20,12 @@ A minimalist habit tracking application built with React and Material-UI. Create
 ### Main Dashboard
 ![Main Dashboard](https://i.imgur.com/EDKbXHm.png)
 
-### Progress Charts
-![Progress Charts](https://i.imgur.com/ksZBoeG.png)
+### Added Habit
+![Added Habit](https://i.imgur.com/ksZBoeG.png)
 
-### Changebale 
-![Dark Mode](https://i.imgur.com/XYWyeOJ.png)
-
+### Streaks and Progress Bar 
+![Streaks and Progress Bar](https://i.imgur.com/XYWyeOJ.png)
+S
 ### Achievements and Chart
 ![Achievement and Chart](https://i.imgur.com/Uv7gRHG.png)
 
