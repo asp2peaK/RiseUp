@@ -1,5 +1,9 @@
 # RiseUp - Habit Tracker
 
+> ⚠️ **Learning Project Notice**
+> 
+> This is a personal learning project created with enthusiasm and curiosity. While I've tried to follow best practices, there might be bugs or areas for improvement. The code could probably be structured or implemented differently - feel free to experiment and modify it to suit your needs! If you find any issues or have suggestions for improvements, they're welcome. Remember, sometimes the best way to learn is by trying different approaches and making mistakes along the way.
+
 A minimalist habit tracking application built with React and Material-UI. Created by [asp2peaK](https://github.com/asp2peaK) as a personal project to explore modern web development practices and help build better habits.
 
 ## Features
