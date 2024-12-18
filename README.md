@@ -18,19 +18,19 @@ A minimalist habit tracking application built with React and Material-UI. Create
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](https://i.imgur.com/EDKbXHm.png)
+![Main Dashboard](https://github.com/user-attachments/assets/90e63f32-3c9b-4b6d-a4b5-f1a3fcfcbd87)
 
 ### Added Habit
-![Added Habit](https://i.imgur.com/ksZBoeG.png)
+![Added Habit](https://github.com/user-attachments/assets/fb6bdb15-8bf7-4bea-b8de-73f7d41310ae)
 
 ### Streaks and Progress Bar 
-![Streaks and Progress Bar](https://i.imgur.com/XYWyeOJ.png)
-S
+![Streaks and Progress Bar](https://github.com/user-attachments/assets/b157643f-8cc6-4b92-bf23-1def2e205ca7)
+
 ### Achievements and Chart
-![Achievement and Chart](https://i.imgur.com/Uv7gRHG.png)
+![Achievement and Chart](https://github.com/user-attachments/assets/40c69cf2-084d-44d3-9498-251f3d441ca8)
 
 ### White Mode
-![White Mode](https://i.imgur.com/HftKwRv.png)
+![White Mode](https://github.com/user-attachments/assets/2cf30be6-00d4-4e4d-8a2f-3be5f23424c4)
 
 ## Technical Stack
 
