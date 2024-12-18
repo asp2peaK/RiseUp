@@ -15,6 +15,23 @@ A minimalist habit tracking application built with React and Material-UI. Create
 - 🌙 Dark mode support
 - 📱 Responsive design
 
+## Screenshots
+
+### Main Dashboard
+![Main Dashboard](https://i.imgur.com/EDKbXHm.png)
+
+### Progress Charts
+![Progress Charts](https://i.imgur.com/ksZBoeG.png)
+
+### Changebale 
+![Dark Mode](https://i.imgur.com/XYWyeOJ.png)
+
+### Achievements and Chart
+![Achievement and Chart](https://i.imgur.com/Uv7gRHG.png)
+
+### White Mode
+![White Mode](https://i.imgur.com/HftKwRv.png)
+
 ## Technical Stack
 
 - React
